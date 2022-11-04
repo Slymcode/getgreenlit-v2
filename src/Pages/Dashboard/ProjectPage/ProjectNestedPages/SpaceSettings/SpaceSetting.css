@@ -1,0 +1,12 @@
+.spaceSettingHeader{
+    background-image: url("./../../../../../assets/projectsHeaderImg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+}
+.spaceSettingHeader_heading{
+    font-style: normal;
+    font-size: 28px;
+    line-height: 29px;
+    color: 'white';
+}

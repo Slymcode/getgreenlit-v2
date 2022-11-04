@@ -1,0 +1,15 @@
+.CreateProjectHeader{
+    background-image: url("./../../../../assets/projectsHeaderImg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+}
+.createProject_btn{
+    background-color: #006bce;
+}
+.CreateProjectHeader_heading{
+    font-style: normal;
+    font-size: 28px;
+    line-height: 29px;
+    color: 'white';
+}
